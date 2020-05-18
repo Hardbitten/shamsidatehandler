@@ -1,0 +1,43 @@
+{
+  "_from": "shamsidatehandler@^1.0.0",
+  "_id": "shamsidatehandler@1.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-7RTnq9X0/3GQxxuXntZDNKHstH1/x/HpEbSsDy2AnoTCKOBuj3YdoJhcMAUEMaacaCMQUbSNUDJ4Og5kxWAg1w==",
+  "_location": "/shamsidatehandler",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "shamsidatehandler@^1.0.0",
+    "name": "shamsidatehandler",
+    "escapedName": "shamsidatehandler",
+    "rawSpec": "^1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://localhost:4873/shamsidatehandler/-/shamsidatehandler-1.0.0.tgz",
+  "_shasum": "fde7043ada2e1eeef5f4d84369c535175a336db1",
+  "_spec": "shamsidatehandler@^1.0.0",
+  "_where": "D:\\Project\\Namira\\Checkup",
+  "author": {
+    "name": "Mahdi-Sarafraz"
+  },
+  "dependencies": {
+    "moment-hijri": "^2.1.2",
+    "moment-jalaali": "^0.8.3",
+    "utilityhandler": "^1.0.0"
+  },
+  "deprecated": false,
+  "description": "",
+  "devDependencies": {},
+  "license": "ISC",
+  "main": "index.js",
+  "name": "shamsidatehandler",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
